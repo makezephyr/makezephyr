@@ -1,0 +1,9 @@
+baseURL: https://makezephyr.com/
+languageCode: ko
+title: Make Zephyr
+theme: hextra
+
+module:
+  hugoVersion:
+    extended: true
+    min: "0.112.0"
